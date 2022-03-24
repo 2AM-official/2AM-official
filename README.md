@@ -1,10 +1,11 @@
 # Hi there, I'm Zhaoxing Lyu 🙈
 
-## I'm a master student in [![websit](University of California San Diego)](https://cse.ucsd.edu/)
+## I'm a M.S. student in [University of California San Diego](https://cse.ucsd.edu/)
 
 - 📍 Qingdao -> Suzhou -> La Jolla 🌴
 - 📚 I’m currently learning everything 
 - 📌 2022 Goals: find a software engineering job
+- 🏫 I finished my B.S. in [Xian Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science)
 
 ### Connect with me:
 
